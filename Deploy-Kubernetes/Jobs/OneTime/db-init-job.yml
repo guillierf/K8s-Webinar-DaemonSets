@@ -17,7 +17,7 @@ spec:
        - name: USERNAME
          value: "root"
        - name: PASSWORD
-         value:"password"
+         value: "password"
        - name: HOST
          value: "mysql"
        - name: PORT
